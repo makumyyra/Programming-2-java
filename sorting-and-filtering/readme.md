@@ -1,3 +1,5 @@
+# NOTE: Quick sort not ready yet
+
 # Tietorakenteet ja algoritmit: filter ja sort
 
 Tässä tehtävässä perehdytään Java-olioista koostuvien listojen suodattamiseen ja lajitteluun eri attribuuttien perusteella.
